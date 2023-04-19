@@ -1,0 +1,14 @@
+<section class="news">
+        <div class="card" style="width: 18rem;">
+            <img src="./images/blogpic.avif" class="card-img-top">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <!-- <a href="#" class="btn btn-primary" style="width: 2rem; height:4rem;">Read more</a> -->
+              <button>Read more</button>
+            </div>
+          </div>
+    </section>
+
+
+    <i class="fa-solid fa-caret-right"></i>
